@@ -91,7 +91,7 @@ export default function LandingPageCom() {
                 <div className="w-fit h-fit">
                     <Image
                         src="/landingImage/casualBoy.png"
-                        width={isBiggerThanMd ? 722 : 300}
+                        width={isBiggerThanMd ? 723 : 300}
                         height={601}
                         alt="casualBoy"
                         priority
